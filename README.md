@@ -37,7 +37,7 @@ Frontend dashboard untuk aplikasi Event Management INVOFEST - sistem manajemen a
 
 ```bash
 # Clone repository
-git clone https://github.com/[username]/uts-web-frontend.git
+git clone https://github.com/giska-15/uts-web-frontend.git
 cd uts-web-frontend
 
 # Install dependencies
